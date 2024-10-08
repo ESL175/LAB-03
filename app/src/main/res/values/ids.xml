@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="loginButton" type="id" />
+    <item name="nameEditText" type="id" />
+    <item name="imageButton" type="id" />
+    <item name="textView" type="id" />
+</resources>
